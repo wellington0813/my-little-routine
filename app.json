@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-little-routine",
+    "slug": "my-little-routine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
